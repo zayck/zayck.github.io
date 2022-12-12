@@ -1,7 +1,7 @@
 #!/bin/bash
 
 feed="feed.xml"
-website_title="少阳个人博客"
+website_title="少阳的个人博客"
 website_link="https://zayck.netlify.app/"
 description="90后 分享生活 | 美学 摄影 文化 | 学习 思维 小众"
 
