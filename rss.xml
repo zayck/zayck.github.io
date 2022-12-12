@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<rss version="2.0"> 
+ 
+<channel> 
+  <title>Blog of Zayck-少阳个人博客</title> 
+  <link>https://zayck.netlify.app</link> 
+  <description>90后 分享生活 | 美学 摄影 文化 | 学习 思维 小众</description> 
+  <item> 
+    <title>联系我</title> 
+    <link>https://blog.weiyiqi.net/html/seo/285.html</link> 
+    <description>个人网站已实现内容整合，但是具体内容还是平台便利。欢迎跳转访问，希望能帮到各位。</description> 
+  </item> 
+</channel> 
+ 
+</rss> 
