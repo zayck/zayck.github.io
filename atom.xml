@@ -3,11 +3,11 @@
   <title>少阳研究所</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://zayck.gitee.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://zayck.gitee.io/"/>
   <updated>2022-12-30T05:19:25.604Z</updated>
-  <id>http://example.com/</id>
+  <id>https://zayck.gitee.io/</id>
   
   <author>
     <name>少阳</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://zayck.gitee.io/posts/4a17b156.html"/>
+    <id>https://zayck.gitee.io/posts/4a17b156.html</id>
     <published>2022-12-30T04:50:03.452Z</published>
     <updated>2022-12-30T05:19:25.604Z</updated>
     
